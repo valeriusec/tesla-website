@@ -1,0 +1,11 @@
+Model Information:
+* title:	tesla
+* source:	https://sketchfab.com/3d-models/tesla-b89f5920ec0244e19992c6a4027dd969
+* author:	charmmingeyes (https://sketchfab.com/charmmingeyes)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "tesla" (https://sketchfab.com/3d-models/tesla-b89f5920ec0244e19992c6a4027dd969) by charmmingeyes (https://sketchfab.com/charmmingeyes) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
