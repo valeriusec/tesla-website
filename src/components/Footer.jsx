@@ -26,8 +26,8 @@ const Footer = () => {
         >
           Website made by{" "}
           <span style={{ fontStyle: "italic", fontFamily:'Montserrat, sans-serif'}}
-          className='underline underline-offset-2 text-white'
-          >Secrieru Valeriu</span>
+          className='cursor-pointer underline underline-offset-2 text-white'
+          >Secrieru Valeriu.</span>
         </span>
         <Link className="bg-t-white rounded-md p-2 flex justify-around items-center w-[110px] mt-4" to={'https://github.com/valeriusec'} target='_blank'>
           <i style={{color: '#333333', fontSize: '26px'}} className="fa-brands fa-github"></i>
